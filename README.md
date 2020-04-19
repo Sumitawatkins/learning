@@ -1,2 +1,2 @@
 # learning
-learning to use Git
+learning to use Git and Github fro monline class
